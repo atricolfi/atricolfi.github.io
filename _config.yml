@@ -1,16 +1,5 @@
-name: "Andrea Ricolfi"
-url: atricolfi.github.io
-description: ATR
-
-permalink: /themes/:title/
-
-gems: [jekyll-paginate]
-
-rouge: pygments
-paginate: 20
-
-markdown: rdiscount
-rdiscount:
-    extensions: ['smart']
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
+# General Jekyll Config
+highlighter: rouge
+url: http://example.com
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
