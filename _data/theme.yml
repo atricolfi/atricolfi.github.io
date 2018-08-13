@@ -5,7 +5,7 @@ highlight_color: '#3498db'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  envelope: mailto:atricolfi@gmail.com
+  Envelope: mailto:atricolfi@gmail.com
   github: atricolfi
   bitbucket: atricolfi
   #stackexchange: 348619
