@@ -25,5 +25,5 @@ show_disclaimer: false
 # Toggle link/icon to view atom feed (/atom.xml) in sidebar
 show_atom_feed: false
 
-show_email_address: true
+show_email: true
 
