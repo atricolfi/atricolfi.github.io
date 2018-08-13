@@ -5,12 +5,13 @@ highlight_color: '#3498db'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  Envelope: mailto:atricolfi@gmail.com
+
   github: atricolfi
   bitbucket: atricolfi
   #stackexchange: 348619
   #stackoverflow: 348619
   #flickr: johndoe
+  envelope: mailto:atricolfi@gmail.com
 
 # "Hi, I'm _______"
 name: Andrea Ricolfi
