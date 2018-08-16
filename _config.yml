@@ -1,4 +1,7 @@
 # General Jekyll Config
+plugins:
+  - jekyll-seo-tag
+
 highlighter: rouge
 url: http://example.com
 lsi: false
