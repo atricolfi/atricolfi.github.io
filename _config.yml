@@ -8,3 +8,8 @@ exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 
 plugins:
   - jekyll-seo-tag
+  
+  # Google Analytics
+google_analytics: UA-69432205-2
+
+
