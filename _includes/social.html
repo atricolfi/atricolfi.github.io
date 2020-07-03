@@ -54,12 +54,6 @@
   </a>
   {% endif %}
 
-  {% if site.data.theme.social.google-scholar %}
-  <a title="{{ site.data.theme.social.google-scholar }} on Google Scholar" href="https://scholar.google.com/citations?user=bGunzxQAAAAJ&hl=en">
-    <i class="fa fa-google-scholar"></i>
-  </a>
-  {% endif %}
-
   {% if site.data.theme.social.flickr %}
   <a title="{{ site.data.theme.name }} on Flickr" href="https://www.flickr.com/people/132091003@N07/{{ site.data.theme.social.flickr }}">
     <i class="fa fa-flickr"></i>
@@ -69,6 +63,12 @@
     {% if site.data.theme.social.envelope %}
   <a title="{{ site.data.theme.envelope }} email" href="mailto:atricolfi@gmail.com">
   <i class="fa fa-envelope big-icon"></i>
+  </a>
+  {% endif %}
+        
+    {% if site.data.theme.social.google-scholar %}
+  <a title="{{ site.data.theme.google-scholar }} on Google Scholar" href="https://scholar.google.com/citations?user=bGunzxQAAAAJ&hl=en">
+    <i class="fa fa-google-scholar"></i>
   </a>
   {% endif %}
     
