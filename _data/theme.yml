@@ -12,6 +12,8 @@ social:
   #stackoverflow: 348619
   flickr: atricolfi
   envelope: mailto:atricolfi@gmail.com
+  - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/profileName'}
+  - {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=userID'}
 
 
 # "Hi, I'm _______"
