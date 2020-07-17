@@ -7,6 +7,13 @@ html, body {
   height: 100%;
 }
 
+.icon > svg, .icon > img {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align:middle
+}
+
 body {
   font-size: 16px;
   background-color: white;
